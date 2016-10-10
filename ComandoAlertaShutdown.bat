@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File .\AlertaShutdown.ps1
